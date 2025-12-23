@@ -1,12 +1,12 @@
 {
-  "version": "2.4.0",
-  "versionCode": 240,
+  "version": "1.1.0",
+  "versionCode": 110,
   "downloadUrl": "https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v2.4.0/app-release.apk",
   "changelog": [
-    "Added mileage forecasting",
+    "Fixed dark mode bug",
     "Fixed service history bug",
     "Faster loading times"
   ],
-  "fileSize": "45MB",
+  "fileSize": "120MB",
   "mandatory": false
 }
